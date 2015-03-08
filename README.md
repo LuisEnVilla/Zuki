@@ -11,6 +11,9 @@ Este proyecto esta basado en los dataset proporcionado por el aboratorio para la
 Por ser de facil uso se podrá manipular por el público en General. 
 
 API:
+- Ciudad: Permite realizar una amplia coleccion de informacion de toda la ciudad de Mexico, entre las que destacan son las delegaciones, caracteristicas climatologias, indices de felicidad de los habitantes.  
+- Delegacin: crea un reporte diferente para cada delegacion del estado de Mexico, proporcionando informacion de suma importancia para el usuario interesado en saber mas de las caracteristicas con las que cuenta actualmente su delegacion.
+- Lugares interes, contiene informacion mas especifica que permite al usuario contemplar donde se encuentran localizados hospitales, escuelas, estacionamientos a su alrededor. 
 - Permitir el intercambio de la información por medio de esta App.
 - Mostrar datos según el interes del usuario, escuelas, instituciones y hospitales de manera específica, delimitando las respuestas según los criterios de búsqueda realizados por el mismo.
 
