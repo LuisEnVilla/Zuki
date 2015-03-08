@@ -1,0 +1,26 @@
+{
+  "name": "Zuki",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+    "main": "./bin/www",
+  "dependencies": {
+    "express": "~4.9.0",
+    "express-session":"1.10.2",
+    "body-parser": "~1.8.1",
+    "cookie-parser": "~1.3.3",
+    "morgan": "~1.3.0",
+    "serve-favicon": "~2.1.3",
+    "debug": "~2.0.0",
+    "jade": "~1.6.0",
+    "mongoose": "~3.6.11",
+    "method-override": "^2.1.2",
+    "request":"2.53.0"
+  },
+  "subdomain": "Zuki",
+  "engines": {
+    "node": "0.10.x"
+  }
+}

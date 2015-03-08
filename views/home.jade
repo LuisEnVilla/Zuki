@@ -1,0 +1,22 @@
+extends layout
+
+block content
+    .intro
+        .container
+            .row
+                .col.s12.m12.l12
+                    br
+                    br
+                    img#log(src="img/u.png")
+                    #titulo.white-text  µMaker.mx
+                .col.s12.m8.l8.offset-m2.offset-l2
+                    .card.white.z-depth-2.cyan-text.text-darken-2
+                        form(method="post", action="/")
+                            .card-content
+                                h5.texto Entérate de próximos eventos y talleres.
+                                .input-field
+                                    i.mdi-content-mail.prefix
+                                    input#icon_prefix.validate.texto(type='email',name="email", required="required",placeholder='Tu E-Mail')
+                                    label(for='icon_prefix')
+                                .card-action
+                                    button.btn-flat.waves-effect.waves-light.right.cyan-text.text-darken-2.texto(type='submit', name='action') Enviar
