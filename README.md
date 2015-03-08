@@ -8,7 +8,7 @@ Zuki es un servicio especializado en la visualizacion de datos abiertos en la re
 Este proyecto esta basado en los dataset proporcionado por el aboratorio para la ciudad, área experimental del Gobierno de la Ciudad de México: [“Laboratorio de datos para la ciudad”]( http://datos.labcd.mx/dataset#) con una interfaz práctica y amigable con la sociedad, sin dejar de lado el gran impacto que se pretende con el manejo de información e interaccion entre el usuario y Zuki. 
 
 
-Por ser de uso General se podrá manipular usuario: Se refiere a público en General. 
+Por ser de facil uso se podrá manipular por el público en General. 
 
 API:
 - Permitir el intercambio de la información por medio de esta App.
@@ -19,14 +19,6 @@ API:
 - NodeJS ~ v0.10.30
 - Phyton ~ v2.6
 - Express ~ v4.9.0
+- Motor de WhatsApp
 
-
-
-
-
-Ahora solo rediriguete en tu navegador a "localhost" y podras vizualizar la aplicación web funcionando.
-
-
-Si necesitas mayor información visita nuestra [wiki.](https://github.com/LuisEnVilla/Zuki/wiki/Instalaci%C3%B3n-de-Dependencias:)
-
-####Nota: Lo unico que no funcionaria es el motor de WhatsApp. Si quieres ver como instalarlo y arrancarlo, por favor visita nuestra gia paso a paso en la [wiki.](https://github.com/LuisEnVilla/Zuki/wiki/WhatsAppEgine)
+###Si necesitas mayor información de las dependencias visita nuestra [wiki.](https://github.com/LuisEnVilla/Zuki/wiki)
